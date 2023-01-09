@@ -1,0 +1,271 @@
+/tmp/1a23144c-adb0-4cd8-8c9f-8946135fd8ce.wav|Let me tell you about a boy I know.|0
+/tmp/174fcd2a-98ef-452a-a760-ae8a25a9ed3f.wav|He is my baby and he lives next door.|0
+/tmp/9e1d1dc6-59e4-4cbe-b33a-bec8a16284e3.wav|Every morning fore the sun comes up.|0
+/tmp/7c8d56f9-0be2-4dde-b879-13eb41c86073.wav|He brings me coffee in my favourite cup, that's why I know, yes I know.|0
+/tmp/543ca514-5951-4d31-9acb-ae3581bb9c1a.wav|Hallelujah! I just love him So.|0
+/tmp/52794951-cc5f-45d2-aecc-114bbe12ebea.wav|When I'm in trouble and I have no friends.|0
+/tmp/152caf36-6327-48bb-a0a9-b7c6a9104038.wav|I know he'll go with me until the end.|0
+/tmp/d64639f3-5515-4748-ac6a-4c668573365a.wav|Everybody asks me how I know.|0
+/tmp/68b81e84-95ca-4792-a36f-0e3e1ee63086.wav|I smile at them and say he told me so that's why I know.|0
+/tmp/f975ba13-8b7d-4740-8b19-257fc5ca4ea1.wav|Yes I know.|0
+/tmp/dc794d96-8df7-4a37-bc00-831151ff1a41.wav|Hallelujah, I just love him so.|0
+/tmp/2816ee55-f9d5-45eb-8d37-aff1f622c43f.wav|Now if I call him on the telephone.|0
+/tmp/955d46e8-6b22-499c-a733-6875f3559115.wav|And tell him that I'm all alone.|0
+/tmp/4e39e29c-bb66-4709-9775-b85eaeb56605.wav|By the time I count from one to four.|0
+/tmp/7c3d80ed-d07f-4469-8551-9253c73075ef.wav|I hear him knock knock knock knocking on my door.|0
+/tmp/7b953cbd-ce7d-448e-a372-58942da0c8fd.wav|In the evening when the sun goes down.|0
+/tmp/46c7e9bb-2731-4cd8-8784-a51bd25e7c71.wav|When there's nobody else around.|0
+/tmp/fc65b6e2-9a17-459d-81d9-d626c633f5a9.wav|He kisses me and he holds me tight.|0
+/tmp/fb7bc086-dbfc-4fea-8390-2354f431096c.wav|Tells me baby, everything's all right. That's why I know, yes I know.|0
+/tmp/5f848b1d-646b-477c-a86f-ce8e486c5bde.wav|Hallelujah, I just love him so.|0
+/tmp/9138fd54-9610-44ee-97ee-4a8e58f95231.wav|Like a long lonely stream.|0
+/tmp/ed88b5d6-20fd-4c24-bbe0-5a3712773b26.wav|I keep running towards a dream.|0
+/tmp/72c3d767-5adb-40d9-96db-12e1b42b39e4.wav|Moving on. Moving on.|0
+/tmp/8c3df94a-d557-4dc9-a916-f68c9d19583b.wav|Like a branch on a tree.|0
+/tmp/d5d71fa1-8240-4767-943e-3af71a75e462.wav|I keep reaching to be free.|0
+/tmp/c1958f45-c1dd-415c-8067-2a9b894695b6.wav|Moving on, Moving on.|0
+/tmp/7406b0b5-1e6d-4d09-a076-30fa162388f3.wav|Cause there's a place in the sun.|0
+/tmp/caec18ae-9363-4baf-92ff-7edd6e16fb7d.wav|Where there's hope for every one.|0
+/tmp/41bf4128-dbe2-41c7-a77a-8d4aadd23dfa.wav|Where my poor restless heart.|0
+/tmp/3cebfb65-90f2-4284-b49e-8fba07fa06d8.wav|Gotta run, there's a place in the sun.|0
+/tmp/a6df9716-be01-4ced-b276-b7ef2936ee0e.wav|And before my life is done.|0
+/tmp/f9f6da26-bd0e-4d1d-a216-629b27ebde95.wav|Got to find me a place.|0
+/tmp/e6336b9d-781a-40f6-b89c-4be53f776dfd.wav|In the sun.|0
+/tmp/c0676785-4be0-4c66-a2db-7f84c2226a64.wav|Like an old dusty road.|0
+/tmp/43a7fbd6-305d-419a-9358-38283242cd1d.wav|I get weary from the load.|0
+/tmp/817dc1e1-32d5-4cd1-8eb3-b9d7ab0beb99.wav|Moving on. Moving on.|0
+/tmp/cb6ec219-6313-44bf-86ec-7eb7e2e1f44e.wav|Like this tired troubled Earth.|0
+/tmp/ce5954a6-de00-43dc-a48b-3a46f030a0fa.wav|I've been rolling since my birth.|0
+/tmp/0bccf88e-1819-4e04-a925-5dfc7c72ee82.wav|Moving on.|0
+/tmp/f4e599f2-705b-442e-a597-39d0f97ab29f.wav|Moving on.|0
+/tmp/63d1cb7d-80ff-43a0-aea1-e7e42e1e7f2e.wav|There's a place in the sun.|0
+/tmp/c4d8ad46-cfb7-4001-a87b-11b51faea294.wav|Where there's hope for every one.|0
+/tmp/99a83ce5-b3d8-41ba-8966-5ccbb205628a.wav|Were my poor restless hearts.|0
+/tmp/84c70beb-6b31-4c74-9e73-9aa260540790.wav|Gotta run.|0
+/tmp/e2d6f577-b652-45e6-b705-217d180f2ad8.wav|In the sun.|0
+/tmp/fc336cc5-3d27-4c15-97cd-ed76bee16f95.wav|And before my life is done.|0
+/tmp/53bad585-8be7-4aab-8c55-6f8b3e2bd613.wav|Got to find me a place.|0
+/tmp/590c1f32-7ae5-4a74-aecd-8ef2145e415e.wav|In the sun.|0
+/tmp/d52e6fd7-678d-423b-8703-e803fc6cdcbb.wav|I've got a lot to learn.|0
+/tmp/7b4f870f-2b67-4125-8f4c-5ccfc60fadc9.wav|Don't think I'm trying not to learn.|0
+/tmp/da0c8d56-23fa-4b18-9aae-c7d9123e90e2.wav|Since this is a perfect spot to learn.|0
+/tmp/2d038bff-a6c3-448b-aaef-0ac152b83802.wav|Teach me tonight.|0
+/tmp/f52bbc2a-aa98-41c2-8ea6-c207ea329cfa.wav|Starting with the A B C of it.|0
+/tmp/8732a38b-d469-4e93-925d-c4e08cf3922c.wav|Right down to the X Y Z of it.|0
+/tmp/0042dc79-a73a-4e5e-aed5-84fae8140a11.wav|Help me solve the mystery of it.|0
+/tmp/3cbe20c2-4023-4505-bde9-af6a06f5efad.wav|Teach me tonight.|0
+/tmp/1d25eb17-88cb-45a5-9eb2-67a693b99542.wav|The sky's a blackboard.|0
+/tmp/097e96bc-665a-4243-b01f-a34ec26788e0.wav|High above you.|0
+/tmp/32561766-ef49-4f0f-b702-c086ef98f72d.wav|If a shooting star goes by.|0
+/tmp/a098f4ff-2215-4e42-948b-467d2f177854.wav|I'd use that star to write I love you.|0
+/tmp/1053d912-ed56-4a3e-a926-5800ec871f63.wav|Thousand times across the sky. One thing isn't very clear. my love.|0
+/tmp/7dac08db-a728-4037-84ad-be5820485fd7.wav|Should the teacher stand so near my love.|0
+/tmp/9de0d4e9-19ea-4c21-a1ab-58a2d3bd5a61.wav|Graduations almost here. My love.|0
+/tmp/ad51b99b-19af-4670-ba9f-fe4ef94c6bee.wav|Teach me tonight.|0
+/tmp/13c71edd-8994-4ce8-bbae-311b291ca1f3.wav|I'd use that star to right I love you.|0
+/tmp/6183e877-2995-4322-86cf-794571d92e81.wav|A thousand times across the sky.|0
+/tmp/cd925526-752e-4cbc-9b79-ca9aaa624ace.wav|One thing isn't very clear, my love.|0
+/tmp/498469ca-5a33-4cfe-a61f-978cd66aac98.wav|Should the teacher stand so near my love.|0
+/tmp/74a60e84-caea-4ff2-9c61-0ba18c1bd315.wav|Graduations almost here my love.|0
+/tmp/9f5b9f8d-e360-48ba-86bf-159a78b9cccf.wav|Teach me tonight.|0
+/tmp/6f8d12c3-28cd-40d3-abf7-d372a6518978.wav|For once in my life.|0
+/tmp/6b5980a1-ee29-4b03-962f-1e65ce4a81c0.wav|I have someone who needs me.|0
+/tmp/59660e30-b327-4a3b-997a-8031049d413f.wav|Some one I've needed so long.|0
+/tmp/593914cc-1559-402d-a737-dff199a710ef.wav|For once unafraid.|0
+/tmp/42050d05-b5b0-4186-a719-4a05ce31f900.wav|I can go where life leads me.|0
+/tmp/0a8416d9-b6d2-4748-b9e4-6a78b196e9a3.wav|Somehow I know I'll be strong.|0
+/tmp/ead3b476-4774-43ba-8848-d251a833abad.wav|For once I can touch.|0
+/tmp/c7c7ba9f-ed44-472a-9199-d733a02d4914.wav|What my heart used to dream of.|0
+/tmp/3b192222-545e-40c6-9f41-77e29200be55.wav|Long before I knew.|0
+/tmp/a4c331b4-0b74-4f3f-b913-c1bcc9f04714.wav|Woah, someone warm like you.|0
+/tmp/3c36530c-72ec-4ce6-bd37-855d55d2dc1e.wav|Would make my dreams come true, oh.|0
+/tmp/aee643f5-ca89-4f39-813c-67aa6d8d395a.wav|For once in my life, I won't let sorrow hurt me.|0
+/tmp/e6c1efd1-e9ae-4939-a2fd-595f709be30c.wav|Not like it's hurt me before.|0
+/tmp/a9525ff7-0128-49a4-9b40-9fc5e3af5a9e.wav|For once I have something.|0
+/tmp/f60c03f6-2682-48b0-9557-07efbcad341a.wav|I know won't desert me. I'm not alone anymore.|0
+/tmp/4993085a-4f4e-4347-9b67-32f87841d1a1.wav|For once I can say this is mine, you can't take it.|0
+/tmp/15692210-4a8b-4442-8217-b94e7b6d1976.wav|As long as I know I have love I can make it.|0
+/tmp/5cc57aa3-64f8-474a-b1d5-f79afdf09c4d.wav|For once in my life I have someone who needs me.|0
+/tmp/51e231e2-1cba-41c5-b591-37b23c1377d9.wav|Lovely as a summer day.|0
+/tmp/eb331585-e49d-413a-9cd9-6bddbc3c3180.wav|My cherie amour, distant as a milky way.|0
+/tmp/f0908752-3c3f-4857-9596-06479b42e5fc.wav|Pretty little one that I adore.|0
+/tmp/279bf79b-3fe2-41fa-b730-dd95a9cef77b.wav|You're the only girl my heart beats for.|0
+/tmp/a7923360-1045-4005-867c-0db235708706.wav|How I wish you were mine!|0
+/tmp/d031066c-3ec5-4597-98d4-687af7bea2f7.wav|In a cafe.|0
+/tmp/ba7b7dd4-65e7-4277-bbcf-0c2021509180.wav|Or sometimes on a crowded street.|0
+/tmp/4a39e8be-6ea9-4171-a805-4edcb135fa38.wav|I've been near you, but you never noticed me.|0
+/tmp/347b1a1c-68d0-44b3-ba8c-1d0cacc293fe.wav|My cherie amour.|0
+/tmp/3417ad5f-78e7-456b-b5ae-3c7c904cf17a.wav|Won't you tell me? How could you ignore me?|0
+/tmp/d8bfd4a0-475b-4f73-a1f8-df91b9ce9b18.wav|That behind that little smile I wore.|0
+/tmp/eb7eb35c-66e9-413a-bef3-089cbd86da01.wav|How I wish that you were mine.|0
+/tmp/ae9d8227-8f87-4549-bcf5-a8928603d8d7.wav|Maybe someday.|0
+/tmp/bfff8ba6-c363-4fc3-b757-42d045192e70.wav|You'll see my face among the crowd.|0
+/tmp/1302146d-b70f-4419-a31d-f9a44866ef36.wav|Maybe some day.|0
+/tmp/0adf5979-65e0-447b-9899-8d2e04a36aa2.wav|I'll share your little distant cloud.|0
+/tmp/419727d0-bfe4-498f-9b0d-b1845d9e058a.wav|Oh cherie amour.|0
+/tmp/04b308b9-1b2b-4b63-90cc-df26162dd94e.wav|Pretty little one that I adore.|0
+/tmp/4d4526df-1e48-450c-a441-1dd7e1901298.wav|You're the only girl my heart beats for.|0
+/tmp/2968dc91-3655-47b1-b63f-1d265de40d55.wav|How I wish that you were mine.|0
+/tmp/fb79549c-1efd-4492-8d3f-f10b17af4bc9.wav|Like a fool, I went and stayed too long.|0
+/tmp/e1d0b152-56bf-4cad-86c0-81ea028bd57a.wav|Now I'm wondering if your love's still strong ooh baby.|0
+/tmp/a96cb0f7-5693-478d-bf14-fa4bd97f3035.wav|Here I am, signed, sealed delivered, I'm yours.|0
+/tmp/59323d53-37e4-4c16-ae2b-0e1b2d0ec4dc.wav|Then that time I went and said goodbye.|0
+/tmp/9b370eaa-5e59-4769-a639-c91f7a884492.wav|Now I'm back and not ashamed to cry.|0
+/tmp/c5831bda-f953-4640-afda-7cc1c705bf28.wav|Ooh Baby.|0
+/tmp/b83a7694-000e-48a0-b98f-a70d9eb3f14c.wav|Here I am, signed, sealed, delivered, I'm yours.|0
+/tmp/aa3f297d-287e-4ead-a38e-1cec241f097a.wav|Here I am baby!|0
+/tmp/25b3391f-6c22-4e0e-910b-034e619642a6.wav|I done a lot of foolish things,|0
+/tmp/ddb5d7d7-d193-437c-948e-dc3c4b391ce1.wav|That I really didn't mean.|0
+/tmp/4714ace2-f589-4fb2-b750-2472209de98a.wav|I could be a broken man but here I am.|0
+/tmp/6f114224-cbb2-42e4-b460-2cc8b206329b.wav|Got your future babe.|0
+/tmp/7909eff9-6f14-447e-8e70-2b3fefccbf83.wav|Here I am baby!|0
+/tmp/f5acd77b-88ab-4b25-a8a5-840ac6feab38.wav|And if you really love me.|0
+/tmp/80bf0482-311b-44da-b394-e3d31dd2a83a.wav|Won't you tell me?|0
+/tmp/e5a33f36-c61d-4e82-8275-1565e913992c.wav|Then I won't have to be.|0
+/tmp/9fc7b747-8249-4896-a927-d0145a315c2c.wav|Playing around.|0
+/tmp/be82a476-2284-4dba-8b64-4313260f66e3.wav|You call my name. Oh so sweet.|0
+/tmp/a3ddc758-1a2a-4269-8c7e-62cc40ffa440.wav|To make your kiss incomplete.|0
+/tmp/ad107a20-3630-4ef2-a8f8-dae331b3e683.wav|When your mood is clear, you quickly change your ways.|0
+/tmp/4450c9d5-f199-4c09-8c70-f8a6f2946fcf.wav|Then you say I'm untrue.|0
+/tmp/a2d8fca8-0c9d-4806-9cce-0115b70664ef.wav|What am I supposed to do?|0
+/tmp/c3d383d4-243f-4874-b753-213e8a87463d.wav|Be a fool who sits alone waiting for you.|0
+/tmp/9e8b2157-5a7f-4d32-b93c-030496c8620c.wav|But if you really love me.|0
+/tmp/79d08043-95f4-4a7c-ab83-7cb22c67b730.wav|Won't you tell me?|0
+/tmp/c9739782-e013-4265-a968-18a6bb53fef1.wav|I see the light of your smile.|0
+/tmp/b6f0a78d-f690-4ce4-92fd-43aa046bfa4b.wav|Calling me all the while.|0
+/tmp/97ebdb44-4d55-4379-8e6e-341739de0423.wav|You are saying baby it's time to go.|0
+/tmp/0185eb2e-3f9d-47b5-bf44-9448f59b8e5a.wav|First the feeling's alright.|0
+/tmp/9232fe20-a8c0-44cf-80f3-57220a86bc57.wav|Then it's gone from sight.|0
+/tmp/f92971e8-4063-4def-b837-2d9d12ec278b.wav|So I'm taking out this time.|0
+/tmp/ff6afcca-41a0-4d1a-93ac-3e8e015bd78c.wav|To say.|0
+/tmp/9ad36aed-f43e-4074-905f-aadc7438e91b.wav|You are the sunshine of my life.|0
+/tmp/e2735e3d-dd53-474a-89ed-efc41ae47445.wav|That's why I'll always be around.|0
+/tmp/ec60c735-0ce3-4fac-b895-e84dcceca744.wav|You are the apple of my eye.|0
+/tmp/ac8917ef-8ab2-4dc9-be54-02a4b87e4358.wav|Forever, you'll stay in my heart.|0
+/tmp/97b12848-bc74-4a20-900e-1b47bc6c0b6b.wav|I feel like this is the beginning.|0
+/tmp/ec9d785f-4b15-4b1e-96c1-b6e436990795.wav|Though I've loved you for a million years.|0
+/tmp/4c6ac6a4-5713-4a9a-a112-6918884db924.wav|And if I thought our love was ending.|0
+/tmp/e1eace8a-4851-4c2f-a894-9ea33168e475.wav|I'd find myself.|0
+/tmp/661f9108-6e0f-4356-b986-b1fa07830a35.wav|Drowning in my own tears.|0
+/tmp/46e3a1fd-be2c-480e-925e-5216366273fd.wav|You must have known that I was lonely.|0
+/tmp/a601a345-5b4e-4f31-8aec-141f20913575.wav|Because you came to my rescue.|0
+/tmp/e40c806c-280e-4837-a86a-aa6e8650e16b.wav|And I know that this must be heaven.|0
+/tmp/1ae67501-7af2-4b50-a15a-acd3d193ea67.wav|How could so much love.|0
+/tmp/94e2df3c-22ed-49a2-a5a4-be8f27edac79.wav|Be inside of you.|0
+/tmp/5beecd56-4403-434d-9df0-721e888b49a0.wav|Yeah.|0
+/tmp/c6cea4af-88bb-451c-92d4-b86ef8c91eb5.wav|Good morn or evening friends.|0
+/tmp/ee688ef9-e9b5-4276-911c-7544697ea855.wav|Here's your friendly announcer.|0
+/tmp/c684338d-aa5b-47c7-96c5-f8edb78218da.wav|I've serious news to pass on.|0
+/tmp/0bf7c441-af8b-4a4e-8ad8-789550056856.wav|To everybody.|0
+/tmp/40af2ece-4883-4706-ab6d-03f8e1791fc8.wav|What I'm about to say.|0
+/tmp/d4803e60-bd6a-4e04-b029-003800edf159.wav|Could mean world's disaster.|0
+/tmp/93b1ca8e-2c1b-4d42-a814-068993c37a8b.wav|Could change your joy and laughter to tears and pain.|0
+/tmp/2d7a0f35-14ff-4b58-b824-01903aa55b4b.wav|It's that love's in need.|0
+/tmp/a2c02f8a-583c-40eb-bbaf-0614edb59fae.wav|Of love today.|0
+/tmp/bc38aa45-a0d7-4976-bb41-ad955eeedb44.wav|Don't delay. send yours in right away.|0
+/tmp/3a7dd4b3-0939-4162-b9b0-0447a9897894.wav|Hate's goin round breaking many hearts.|0
+/tmp/9f0c44bd-7548-4af5-b791-6bdf2eae77e4.wav|Stop it please, before it's gone too far.|0
+/tmp/abf75a40-b2de-4426-9c9b-af744100f53a.wav|The force of evil plans.|0
+/tmp/9fa44c0b-b747-4b07-99fa-6653b65680c8.wav|To make you its possession.|0
+/tmp/35fdd495-037f-4ec3-97ca-9d3ef5316ddb.wav|An it will if we let it.|0
+/tmp/5f3537e4-92bf-4095-b127-2aa62d8a949a.wav|Destroy everybody.|0
+/tmp/1d686f47-6c10-47ed-95a8-79e97122a7a7.wav|We all must take.|0
+/tmp/09cf9f1b-7e57-44aa-8a0d-fe9a41dd3748.wav|Precautionary measures.|0
+/tmp/a214551e-1491-47ab-aec3-ac81673f55e8.wav|If love amd peace you treasure.|0
+/tmp/acebb950-52d2-4f5e-b83c-66ffdad48cff.wav|Then you'll hear me when I say.|0
+/tmp/933c38b0-fc24-4faa-94f5-adb187ef287c.wav|Oh that love.|0
+/tmp/422c8d6c-e2b6-4f14-a3c0-07d9b1f3abd0.wav|People you know that love's in need.|0
+/tmp/c65e9db1-74dc-44ca-9018-22ff467f73af.wav|I see us in the park.|0
+/tmp/97d80c03-5526-47f8-b522-9a79d7d7346b.wav|Strolling the summer days of imaginings in my head.|0
+/tmp/03f0e3d8-753e-495d-a665-88cc8d1f838a.wav|And words from our hearts.|0
+/tmp/f6ee398d-c263-49ab-8b59-c67b45765d28.wav|Told only to the wind without even being said.|0
+/tmp/5daf5ea0-e445-4edb-a24e-bfe0483d9265.wav|I don't want to bore you with.|0
+/tmp/c483c1ee-1180-4e49-ad8b-bad6ad7d25cf.wav|My trouble.|0
+/tmp/4d62e2c8-4553-4b0b-9ee0-6c35fa93ffa0.wav|But there's something about your love.|0
+/tmp/5f04cf64-2e3c-4003-a390-eb5d16b7cbd0.wav|That makes me weak and.|0
+/tmp/62f209dd-5287-4b37-bf3c-f6d40e73377f.wav|Knocks me off my feet.|0
+/tmp/c811bc89-cb37-48d9-8c17-aed33b163366.wav|There's something about your love.|0
+/tmp/b26387c8-f750-4ed7-b8e9-c6bf50cb9699.wav|It knocks me off my feet.|0
+/tmp/b0a39a9a-b909-47e9-af52-8900009d1d24.wav|I don't want to bore you with it.|0
+/tmp/5b17d738-2ebd-403e-86f6-c7abb11b8592.wav|Oh but I love you, I love you, I love you.|0
+/tmp/7d01a535-2431-4a30-bbfb-9baff956048f.wav|More and more.|0
+/tmp/60e43da3-4baf-49c0-8302-9da0a43d296e.wav|We lay beneath the stars.|0
+/tmp/c4bf8585-53f5-435c-9dd7-7a2df950664e.wav|Under a lover's tree that's seen through the eyes of my mind.|0
+/tmp/3a7d950a-b06b-4025-9e77-8ff80bb8d409.wav|I reach out for the part.|0
+/tmp/b7c64b26-14e9-4121-a459-2d76a081cb46.wav|Of me that lives in you.|0
+/tmp/f463d3ac-b781-4909-afbc-fee0f3ff9faf.wav|That only our two hearts can find.|0
+/tmp/0b0ac5c6-ac3f-417e-b019-a3acbe9d5ad0.wav|I don't wanna bore you with.|0
+/tmp/6f2e6f7f-808a-491b-b64b-f395b78fd757.wav|My trouble.|0
+/tmp/031f6c3f-e96a-4928-a19c-e8f454a16349.wav|But there's something about your love that makes me weak and knocks me off my feet.|0
+/tmp/f12b85ad-0db9-4a2d-b3e5-74a8a1e8ee0b.wav|Isn't she lovely.|0
+/tmp/729c87f3-9c95-4572-96fe-adb32ac3256a.wav|Isn't she wonderful.|0
+/tmp/71359dcc-a4c5-414b-b804-16cea1410a09.wav|Isn't she precious?|0
+/tmp/44cae301-ddf3-4675-b604-305fe34e27a5.wav|Less than one minute old.|0
+/tmp/25468602-04fc-4d95-8902-8a2b18e7cd27.wav|I never thought.|0
+/tmp/96919037-9e73-4318-82d6-fa72e9857893.wav|Through love we'd be.|0
+/tmp/106f4b41-bf98-4633-8de6-e42ea870292a.wav|Making one as lovely as she.|0
+/tmp/47acecc2-a631-408b-8306-cc07bc0748f5.wav|Isn't she lovely made from love.|0
+/tmp/b9c8e985-a6a8-4ea8-8b89-a34514525cc2.wav|Isn't she pretty?|0
+/tmp/7127eca3-ebe7-4f6e-883a-8c113042aa10.wav|Truly the angel's best.|0
+/tmp/ed36ca37-0fb7-4dee-8558-bb607878bc63.wav|Boy I'm so happy.|0
+/tmp/117c6578-0647-47be-b426-c5d18d517a40.wav|We have been heaven blessed.|0
+/tmp/c16efa18-16e4-4952-ace0-b03418865800.wav|I can't believe what God has done.|0
+/tmp/92ee0603-ea69-4b02-853c-cd4a56077bd6.wav|Through us he's given life to one.|0
+/tmp/77430dad-2432-4b3c-b4c4-904daa7c886d.wav|But isn't she lovely made from love.|0
+/tmp/f8a4a800-c990-4181-ad08-abf373539cac.wav|Life and love are the same.|0
+/tmp/68cd5d66-a220-462c-96b3-dae85bdeadce.wav|Life is a Aisha.|0
+/tmp/5b495075-e574-4905-b613-3b98a25d59e2.wav|The meaning of her name.|0
+/tmp/6ccae840-4b81-44ea-a1d6-f81f25152b94.wav|Londie, it could have not been done.|0
+/tmp/593009e0-8114-4083-9bc7-9b3f10d8a456.wav|Without you who conceived the one.|0
+/tmp/a9ff783a-9d29-4330-9cf6-6be365566696.wav|That's so very lovely, made from love.|0
+/tmp/ab437ad1-e8b2-4804-b61e-26c050f100ef.wav|As around the sun the earth knows she's revolving.|0
+/tmp/c9beb011-bb35-4caf-b4b0-3bd252a469da.wav|And the rosebuds know to bloom in early May.|0
+/tmp/c6011ddd-2ea9-45b8-914e-70ff078f9b0f.wav|Just as hate knows love's the cure. You can rest your mind assured.|0
+/tmp/5dc656b3-87a1-4250-a7b0-2c9fc9ed8f96.wav|That I'll be loving you always.|0
+/tmp/645dfcd8-43d9-4d75-9415-34b9a4f97a11.wav|As now can't reveal the mystery of tomorrow.|0
+/tmp/d705632b-f21d-4f66-abba-a0311bfb582e.wav|But in passing will grow older every day.|0
+/tmp/70ee4e6e-1d7f-40e6-8d3f-6a3cc6b79da7.wav|Just as all that's born is new. Do know what I say is true.|0
+/tmp/f72310d9-4a1d-44af-826a-b00fae77f051.wav|That I'll be loving you always.|0
+/tmp/4d4e8a6a-ab51-4f23-b15a-3aea270066b1.wav|Until the rainbow burns the stars out in the sky.|0
+/tmp/77c7cbf9-4856-4f21-a8bc-d4173dfba4e6.wav|Until the ocean covers every mountain high.|0
+/tmp/0f545c0e-2c3c-4156-b15e-d970930b8077.wav|Until the dolphin flies and parrots live by sea.|0
+/tmp/8f874d40-231e-4b05-92f8-8144119ca7ac.wav|Until we dream of life and life becomes a.|0
+/tmp/6bdefcbf-e070-4b04-aace-888b29d5d6f3.wav|Did you know that true love asks for nothing?|0
+/tmp/324abde0-8f1e-4504-8e36-099c15c0a4f1.wav|Her acceptance is the way we pay.|0
+/tmp/ab45f0db-4444-4893-b56c-8737a55e3c64.wav|Did you know that life has given love a guarantee?|0
+/tmp/cf29939b-c509-471b-b3c8-65df92166d73.wav|To last forever.|0
+/tmp/70aeed81-cd85-4d75-ac47-e7dbb3ed35e6.wav|Another day.|0
+/tmp/cb07745c-c29c-46f2-8e0a-e2d143dd2436.wav|Just as time knew to move on since the beginning.|0
+/tmp/5eadf3e3-cb83-4b1e-8161-642a70ce4c49.wav|And the seasons know exactly when to change.|0
+/tmp/2cd8c058-9894-4125-a9ba-7ed6c1de97ed.wav|Just as kindness knows no shame.|0
+/tmp/78608bed-069c-41b0-83ee-5d3d4eb94347.wav|Know through all your joy and pain.|0
+/tmp/1d04d0fe-ae6c-4da0-9f06-ed47ba9f6400.wav|That I'll be loving you always.|0
+/tmp/e46b8079-7d60-48ed-aa51-659f36d1748a.wav|As today I know I'm living but tomorrow.|0
+/tmp/9a80d123-d16e-4983-81de-6f485855fe8c.wav|Could make me the past but that I mustn't fear.|0
+/tmp/c46e251a-0f2a-48f7-844d-0d425cad6926.wav|For I know deep in my mind the love of me I've left behind.|0
+/tmp/e1887434-9b80-4731-8419-2300abd5c889.wav|Cause I'll be loving you always.|0
+/tmp/02eae4be-26ac-4127-bee9-3f8cebf55304.wav|Until the day is night and night becomes a day.|0
+/tmp/8936468b-4649-47a3-a50a-13b4834b2782.wav|Until the trees and seas just up and fly away.|0
+/tmp/da790822-8078-4cd7-a403-5161064fd5cf.wav|Until the day that eight times eight times eight is four.|0
+/tmp/e2315532-024d-450f-9993-a002b06caed1.wav|Until the day That is the day that are no more.|0
+/tmp/6f48392b-5384-4fdb-b7eb-520d67eecf05.wav|Did you know you're loved by somebody?|0
+/tmp/17635919-90ee-4a42-a660-1274f4d2f74f.wav|You made my soul a burning fire.|0
+/tmp/a6964ba9-957a-476d-bedf-481a5295b814.wav|You're getting to be my one desire.|0
+/tmp/3c0c25a1-a7e3-439b-b530-f6811417c77f.wav|You're getting to be al that matters to me.|0
+/tmp/a13201ab-29e3-47c6-ae64-2e390090e872.wav|And let me tell you girl, I hoping pray each day I live.|0
+/tmp/883329dc-161d-499b-9440-6cbef18cf0bb.wav|A little more love I'll have to give.|0
+/tmp/19d7d4c9-bd01-4735-bc74-8323f15bf96f.wav|A little more love that's devoted and true.|0
+/tmp/6da5f985-2963-434a-961f-3236422c8c33.wav|Cause all I do is think about you.|0
+/tmp/7c6e88f1-f0b8-42c4-a97f-dadde6e7ae10.wav|I do.|0
+/tmp/48c4a7de-f38d-4445-a8c2-91261bb3fa81.wav|Is think about you.|0
+/tmp/36f20a03-5920-4d5d-915b-5276f21216b4.wav|All I do.|0
+/tmp/8222b0e2-d3b2-46d9-8e2f-2d60edff0dde.wav|Is think about you.|0
+/tmp/610b71bc-dfc1-4fe9-b36f-fd7655d762aa.wav|Baby, just suppose I should happen to cross your mind.|0
+/tmp/2b3002e8-71bd-4853-b5af-4f0d409633b2.wav|By some chance a girl like me you're really been trying to find.|0
+/tmp/5d748f37-3e42-445e-978f-cc561a60482a.wav|Let me tell you girl, think how I exciting it would be.|0
+/tmp/07212110-f0c1-4c2d-a3cc-3e49dac0d3d8.wav|If you should discover, you feel like me.|0
+/tmp/54b1d615-995d-4b5e-8483-187d37b87a61.wav|If you should discover this dream is for two.|0
+/tmp/9c2218a9-b9f1-4edd-a3c6-c3fcb4ec2a4f.wav|Well I will tell you girl, I'd light a candle every day.|0
+/tmp/7f562735-ab87-4334-bfd5-97cc97bea363.wav|And pray that you'll always feel this way.|0
+/tmp/8ab9e2d1-995d-436f-b496-e8b5081c6689.wav|And pray that our will forever be new.|0
+/tmp/f1cdb0ca-da5c-471d-ac7f-60727410179f.wav|Cause all I do is think about you.|0
