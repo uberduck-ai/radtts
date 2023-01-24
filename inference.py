@@ -42,6 +42,7 @@ def lines_to_list(filename):
     """
     Takes a text file of filenames and makes a list of filenames
     """
+    print(filename)
     with open(filename, encoding='utf-8') as f:
         files = f.readlines()
 
@@ -109,10 +110,12 @@ def infer(radtts_path, vocoder_path, vocoder_config_path, text_path, speaker,
         speaker_id_attributes = trainset.get_speaker_id(
             speaker_attributes).cuda()
 
-    text_list = lines_to_list(text_path)
-
+    # text_list = lines_to_list(text_path)
+    text_list = ['This is a test of the rad inference.']
+    print('sdfgsfboidg')
     os.makedirs(output_dir, exist_ok=True)
     for i, text in enumerate(text_list):
+        print('adsfasdfagergrgj')
         if text.startswith("#"):
             continue
         print("{}/{}: {}".format(i, len(text_list), text))
@@ -140,7 +143,7 @@ def infer(radtts_path, vocoder_path, vocoder_config_path, text_path, speaker,
                     suffix_path = "{}_{}_{}_durscaling{}_sigma{}_sigmatext{}_sigmaf0{}_sigmaenergy{}".format(
                     i, take, speaker, token_dur_scaling, sigma, sigma_tkndur, sigma_f0,
                     sigma_energy)
-
+                    print('heraserasdefasdfasd')
                     write("{}/{}_denoised_{}.wav".format(
                         output_dir, suffix_path, denoising_strength),
                         data_config['sampling_rate'], audio_denoised)
