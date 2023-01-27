@@ -1,6 +1,6 @@
 {
     "train_config": {
-        "output_directory": "/carolyn_dap",
+        "output_directory": "/copeland_dap",
         "epochs": 10000000,
         "optim_algo": "RAdam",
         "learning_rate": 5e-4,
@@ -37,17 +37,17 @@
     "data_config": {
         "training_files": {
             "LJS": {
-                "basedir": "",
+                "basedir": "/usr/src/app/radtts/copeland/",
                 "audiodir": "",
-                "filelist": "/usr/src/app/radtts/filelist.txt",
+                "filelist": "Verses_multi.txt",
                 "lmdbpath": ""
             }
         },
         "validation_files": {
             "LJS": {
-                "basedir": "",
+                "basedir": "/usr/src/app/radtts/copeland/",
                 "audiodir": "",
-                "filelist": "/usr/src/app/radtts/filelist.txt",
+                "filelist": "Verses_multi.txt",
                 "lmdbpath": ""
             }
         },

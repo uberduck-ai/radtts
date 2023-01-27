@@ -1,6 +1,6 @@
 {
     "train_config": {
-        "output_directory": "/carolyn_dap",
+        "output_directory": "/sam_dap",
         "epochs": 10000000,
         "optim_algo": "RAdam",
         "learning_rate": 5e-4,
@@ -39,7 +39,7 @@
             "LJS": {
                 "basedir": "",
                 "audiodir": "",
-                "filelist": "/usr/src/app/radtts/filelist.txt",
+                "filelist": "/usr/src/app/uberduck_local/ml/filelist.txt",
                 "lmdbpath": ""
             }
         },
@@ -47,7 +47,7 @@
             "LJS": {
                 "basedir": "",
                 "audiodir": "",
-                "filelist": "/usr/src/app/radtts/filelist.txt",
+                "filelist": "/usr/src/app/uberduck_local/ml/filelist.txt",
                 "lmdbpath": ""
             }
         },
