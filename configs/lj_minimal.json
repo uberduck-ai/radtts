@@ -108,7 +108,7 @@
         "include_modules": "decatn",
         "scaling_fn": "tanh",
         "matrix_decomposition": "LUS",
-        "learn_alignments": false,
+        "learn_alignments": true,
         "use_speaker_emb_for_alignment": false,
         "attn_straight_through_estimator": true,
         "use_context_lstm": false,
