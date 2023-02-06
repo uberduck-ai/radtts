@@ -111,8 +111,10 @@ class RADTTS(torch.nn.Module):
         if 'atn' in include_modules or 'dec' in include_modules:
             if self.learn_alignments:
                 if self.use_speaker_emb_for_alignment:
+                    # TODO: plus not concat
                     self.attention = ConvAttention(
-                        n_mel_channels, n_text_dim + self.n_speaker_dim)
+                        n_mel_channels, n_text_dim )
+                    # self.attention = ConvAttention(n_mel_channels, n_text_dim + n_speaker_dim)
                 else:
                     self.attention = ConvAttention(n_mel_channels, n_text_dim)
 
@@ -270,7 +272,9 @@ class RADTTS(torch.nn.Module):
             if energy_avg is not None:
                 energy_avg = self.unfold(energy_avg[:, None, :, None])
         speaker_vecs = speaker_vecs[..., None].expand(-1, -1, context.shape[2])
+        # TODO (Sam): make this plus.
         context_w_spkvec = torch.cat((context, speaker_vecs), 1)
+        # context_w_spkvec = context + speaker_vecs
 
         if self.use_context_lstm:
             if self.context_lstm_w_f0_and_energy:
@@ -380,9 +384,11 @@ class RADTTS(torch.nn.Module):
             if self.use_speaker_emb_for_alignment:
                 speaker_vecs_expd = speaker_vecs[:, :, None].expand(
                     -1, -1, text_embeddings.shape[2])
+                # TODO (Sam): make this plus.
                 text_embeddings_for_attn = torch.cat(
                     (text_embeddings_for_attn, speaker_vecs_expd.detach()), 1)
-
+                # text_embeddings_for_attn = text_embeddings_for_attn + speaker_vecs_expd.detach()
+                
             # attn_mask shld be 1 for unsd t-steps in text_enc_w_spkvec tensor
             attn_soft, attn_logprob = self.attention(
                 mel, text_embeddings_for_attn, out_lens, attn_mask,
@@ -568,7 +574,8 @@ class RADTTS(torch.nn.Module):
             dur = dur.clamp(0, token_duration_max)
             dur = dur * token_dur_scaling if token_dur_scaling > 0 else dur
             dur = (dur + 0.5).floor().int()
-
+        # import pdb
+        # pdb.set_trace()
         out_lens = dur.sum(1).long().cpu() if dur.shape[0] != 1 else [dur.sum(1)]
         max_n_frames = max(out_lens)
 
@@ -626,6 +633,7 @@ class RADTTS(torch.nn.Module):
 
             # replication pad, because ungrouping with different group sizes
             # may lead to mismatched lengths
+
             if energy_avg.shape[1] < out_lens[0]:
                 to_pad = out_lens[0] - energy_avg.shape[1]
                 pad_fn = nn.ReplicationPad1d((0, to_pad))
@@ -637,6 +645,7 @@ class RADTTS(torch.nn.Module):
                 f0 = pad_fn(f0[None])[0]
 
             if self.decoder_use_unvoiced_bias:
+
                 context_w_spkvec = self.preprocess_context(
                     txt_enc_time_expanded, spk_vec, out_lens,
                     f0 * voiced_mask + f0_bias, energy_avg)
