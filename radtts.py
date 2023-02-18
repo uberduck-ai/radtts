@@ -112,9 +112,9 @@ class RADTTS(torch.nn.Module):
             if self.learn_alignments:
                 if self.use_speaker_emb_for_alignment:
                     # TODO: plus not concat
-                    self.attention = ConvAttention(
-                        n_mel_channels, n_text_dim )
-                    # self.attention = ConvAttention(n_mel_channels, n_text_dim + n_speaker_dim)
+                    # self.attention = ConvAttention(
+                    #     n_mel_channels, n_text_dim )
+                    self.attention = ConvAttention(n_mel_channels, n_text_dim + n_speaker_dim)
                 else:
                     self.attention = ConvAttention(n_mel_channels, n_text_dim)
 
