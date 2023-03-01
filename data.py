@@ -358,7 +358,9 @@ class Data(torch.utils.data.Dataset):
         return attn_prior
 
     def __getitem__(self, index):
+        
         data = self.data[index]
+        # print(data["audiopath"])
         audiopath, text = data["audiopath"], data["text"]
         speaker_id = data["speaker"]
 
@@ -383,7 +385,7 @@ class Data(torch.utils.data.Dataset):
         p_voiced = None
         voiced_mask = None
         if self.use_f0:
-            filename = "_".join(audiopath.split("/")[-3:])
+            filename = "_".join(audiopath.split("/")[-4:]) # this was 3 but is messed up for certain audiopaths
             f0_path = os.path.join(self.betabinom_cache_path, filename)
             f0_path += "_f0_sr{}_fl{}_hl{}_f0min{}_f0max{}_log{}.pt".format(
                 self.sampling_rate,
@@ -411,6 +413,7 @@ class Data(torch.utils.data.Dataset):
                 p_voiced = dikt["p_voiced"]
                 voiced_mask = dikt["voiced_mask"]
             else:
+                # print(audiopath)
                 f0, voiced_mask, p_voiced = self.get_f0_pvoiced(
                     audio.cpu().numpy(),
                     self.sampling_rate,
