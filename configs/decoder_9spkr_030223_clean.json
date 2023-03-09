@@ -76,7 +76,7 @@
         "handle_phoneme_ambiguous": "ignore",
         "include_speakers": null,
         "n_frames": -1,
-        "betabinom_cache_path": "data_cache/",
+        "betabinom_cache_path": "data_cache_clean/",
         "lmdb_cache_path": "", 
         "use_attn_prior_masking": true,
         "prepend_space_to_text": true,
