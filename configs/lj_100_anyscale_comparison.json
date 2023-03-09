@@ -39,7 +39,7 @@
             "LJS": {
                 "basedir": "/",
                 "audiodir": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/lj_data/LJSpeech-1.1/wavs",
-                "filelist": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/metadata_formatted_100.txt",
+                "filelist": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/metadata_formatted_100_resnorm.txt",
                 "lmdbpath": ""
             }
         },
@@ -47,7 +47,7 @@
             "LJS": {
                 "basedir": "/",
                 "audiodir": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/lj_data/LJSpeech-1.1/wavs",
-                "filelist": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/metadata_formatted_100.txt",
+                "filelist": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/metadata_formatted_100_resnorm.txt",
                 "lmdbpath": ""
             }
         },

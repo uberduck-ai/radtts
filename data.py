@@ -313,7 +313,11 @@ class Data(torch.utils.data.Dataset):
         return energy_avg
 
     def get_mel(self, audio):
-        audio_norm = audio / self.max_wav_value
+
+        # NOTE (Sam): audio / self.max_wav_value assumes that audio is already normalized to max_wav_value, which is not how we store it.
+        # NOTE (Sam): be carefuly of numerical issues with order of operations here.
+        audio_norm = ((self.max_wav_value - 1) / self.max_wav_value ) * (audio / (np.abs(audio).max()))
+        # audio_norm = audio / self.max_wav_value
         audio_norm = audio_norm.unsqueeze(0)
         audio_norm = torch.autograd.Variable(audio_norm, requires_grad=False)
         melspec = self.stft.mel_spectrogram(audio_norm)
