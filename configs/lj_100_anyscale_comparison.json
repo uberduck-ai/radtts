@@ -38,16 +38,16 @@
         "training_files": {
             "LJS": {
                 "basedir": "/",
-                "audiodir": "/usr/src/app/radtts/data/lj_for_upload/lj_for_upload/lj_data/LJSpeech-1.1/wavs",
-                "filelist": "/usr/src/app/radtts/data/lj_for_upload/lj_for_upload/metadata_formatted_100.txt",
+                "audiodir": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/lj_data/LJSpeech-1.1/wavs",
+                "filelist": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/metadata_formatted_100.txt",
                 "lmdbpath": ""
             }
         },
         "validation_files": {
             "LJS": {
                 "basedir": "/",
-                "audiodir": "/usr/src/app/radtts/data/lj_for_upload/lj_for_upload/lj_data/LJSpeech-1.1/wavs",
-                "filelist": "/usr/src/app/radtts/data/lj_for_upload/lj_for_upload/metadata_formatted_100.txt",
+                "audiodir": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/lj_data/LJSpeech-1.1/wavs",
+                "filelist": "/usr/src/app/radtts/lj_for_upload/lj_for_upload/metadata_formatted_100.txt",
                 "lmdbpath": ""
             }
         },
